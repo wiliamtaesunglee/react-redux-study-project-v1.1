@@ -22,4 +22,4 @@ server.get('/', (req, res) => {
   `)
 });
 
-server.listen(4242, () => console.log('Server is running...'));
+server.listen(7000, () => console.log('Server is running...'));
